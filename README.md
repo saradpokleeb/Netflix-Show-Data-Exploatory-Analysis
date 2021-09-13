@@ -1,4 +1,4 @@
-## Netflix-Show-Data-Exploatory-Analysis
+## Netflix-Show-Data-Exploratory-Analysis
 
 Data Source : https://www.kaggle.com/shivamb/netflix-shows
 
