@@ -2,7 +2,7 @@
 
 Data Source : https://www.kaggle.com/shivamb/netflix-shows
 
-I made rough analysis with python (Pandas,Plotly). [netflix.ipynb]
+I made rough analysis with python (Pandas,Plotly). link https://www.kaggle.com/saradpokleeb/netflix-shows-dea
 
 Also made visualization with tableau with sql query to make them easier. [netflix.sql]
 
